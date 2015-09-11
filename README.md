@@ -1,13 +1,21 @@
 # Simulations in Biocomplexity
-[Simulations](http://www3.nd.edu/~gmadey/sim10/index.html)
+[Simulations in BioComplexity - 2015](http://www3.nd.edu/~gmadey/sim10/index.html)
 
+## 10 Sept. 2015
+- We start with 3 locations
+- 
+
+### A Summary of Complex Systems, Emergence, and Self-Organization
+
+Emergence is a global property of a complex system exhibited as a function of self-organization that occurs at the local level.  Emergent properties of the system can often be categorized as bad (unpredictable or uncontrollable) or good (adaptable, flexible, or robust).  Self-organization is often described as a property that ‘spontaneously’ may occur, but I believe that self-organization (is another emergent property of a complex system) at the local level occurs as a function of the environment and doesn’t simply occur as a function of time.  The complex interactions between all agents at the microscopic (or local) scale or level react and evolve to the environment leading to a self-organization that is in synchrony with the system as whole.
+
+![](http://dsg1.crc.nd.edu/~saguinag/figures/emerg_selforg_cmplx_sys.png)
 
 ## 08 Sept. 2015
 
 * Feedback: Thursday
   - Eckhoff paper 1st 6 pages, until about the adult population; prepare to explain it. (2011)
   - Summarize Complex Systems / Emergence / Self-organization
-  -
 
 * The Model: EMOD
 
