@@ -1,9 +1,71 @@
+# EMOD compile from source
+
+[Visual Studio 2012.5](https://www.visualstudio.com/downloads/download-visual-studio-vs)
+
+
 # Simulations in Biocomplexity
-[Simulations in BioComplexity - 2015](http://www3.nd.edu/~gmadey/sim10/index.html)
+
+* [Simulations in BioComplexity - 2015](http://www3.nd.edu/~gmadey/sim10/index.html)
+* [Link to Software Installation](http://www3.nd.edu/~saguinag/modeling/emod_install.html)
+
+loss of water habitat:
+evaporation
+runoff
+everything else
+
+## Calibration
+- HBR human biting rate, EIR biting rate that carries risk of infection
+- HBR is fit first, then EIR
+
+## 06 Sep 2015
+-
+
+## 29 Sep 2015
+-
+## 24 Sep 2015
+  - 5 500 000 000 what is the Temporary Rainfall Parameter; scales the EIR up or
+  down.  And does something else
+  - change Parasite Params  from 0.02 ,0.1, and the smear sensitivity to 0.01
+ Simulation|Parameter | Setting |
+ ----------|----------|---------|
+ Base0 | | |
+ - | New Diagnostic Detection   | 0.02
+ - | Parasite Smear Sensitivity | 0.02
+ - | x_Temporary_Larval_Habitat | 1
+
+ Note: time steps between repetitions ... what are the units ? And what is the Delta t?
+
+
+
+
+## 22 Sep 2015
+
+  ### Simulations
+  - simulating the productivity of the breeding sites
+  - Reviews of Vecnet simulations
+  - Bugs:
+  - Future fixes:
+    - sweep
+
+
+## 15 Sept 2015
+
+### Proposal
+
+* Define the system
+  - Define the system elements  and the relationships (interactions)
+  - Identify the drivers and inputs
+  - Which elements are knowable and well measured
+
+* Abstract and Simplify
+  - What do we want to estimate or predict
+
+* Design an operational model of the system
+  - what are all the dependent and independent variables
 
 ## 10 Sept. 2015
 - We start with 3 locations
-- 
+-
 
 ### A Summary of Complex Systems, Emergence, and Self-Organization
 
